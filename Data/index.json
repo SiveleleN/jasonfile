@@ -1,0 +1,102 @@
+{
+   
+    "Resume": [
+        {
+            "id": 1,
+            "name": "Education",
+            "description": "Grade 12 Year: 2016"
+        },
+        {
+            "id": 2,
+            "name": "Work Experience",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "Skills & Qualifications",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "name": "Curriculum Vitae",
+            "url": ""
+        },
+        {
+            "id": 5,
+            "name": "Work Experience",
+            "description": ""
+        }
+    ],
+    "Projects": [
+        {
+            "id": 1,
+            "projectName": "",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "projectName": "",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "projectName": "",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "projectName": "",
+            "link": ""
+        },
+        {
+            "id": 5,
+            "projectName": "",
+            "link": ""
+        },
+        {
+            "id": 6,
+            "projectName": "",
+            "link": ""
+        }
+    ],
+    "Testimonials": [
+        {
+            "id": 1,
+            "name": "Person 1",
+            "img_url": "",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "name": "Person 2",
+            "img_url": "",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "Person 3",
+            "img_url": "",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "name": "Person 4",
+            "img_url": "",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "name": "Person 5",
+            "img_url": "",
+            "description": ""
+        },
+        {
+            "id": 6,
+            "name": "Person 6",
+            "img_url": "",
+            "description": ""
+        }
+    ]
+    
+    
+}
